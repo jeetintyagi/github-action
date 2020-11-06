@@ -1,0 +1,28 @@
+{
+  "name": "github-action",
+  "version": "1.0.0",
+  "description": "github action for my repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeetintyagi/github-action.git"
+  },
+  "keywords": [
+    "github",
+    "actions",
+    "automation"
+  ],
+  "author": "jeetintyagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeetintyagi/github-action/issues"
+  },
+  "homepage": "https://github.com/jeetintyagi/github-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
